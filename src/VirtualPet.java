@@ -120,8 +120,3 @@ class VirtualPet {
         return idadeDoPet >= 50;
     }
 }
-    public void passarTempo() {
-        nivelDeFome += 5;
-        System.out.println(nome + " está ficando mais faminto com o passar do tempo.");
-    }
-}
